@@ -1,48 +1,47 @@
 <!--Encabezados  -->   
    
-   # title en h1
-   ## title en h2
-   ### title en h3
-   #### title en h4
-   ##### title en h5
-   ###### title en h6
+   # Animales
+   ## Perro
+   ### Gato
+   #### Delfín
+   ##### Tortuga
+   ###### Iguana
    ---
 
    <!-- Listas desordenadas -->
 
-   * manzanas
-     * golden
-     * reinetas
-   * peras
-   * albaricoques
+   * Nissan
+     * Opel
+     * BMW
+   * Skyline GT-R
+   * Skyline GT-T
 
    <!-- Listas ordenadas -->
 
-   1. Primero
-      1. primero1
-      2. primero2 
-   2. Segundo
-   3. Tercero
+   1. Nissan
+      1. Skyline GT-R
+      2. Skyline GT-T
+   2. Opel
+   3. BMW
 
    <!-- Tablas -->
 
-   |Nombre|Apellidos|
-   |------|---------|
-   |Maykel  |Cordero    |
+   |Marca     |Modelo     |
+   |----------|-----------|
+   |koenigsegg|Agera R    |
    
    <!-- Tipos de letras -->
 
-   tipos de *letra*
+   *Los koenigsegg son coches exclusivos*
    
-   tipos de **letra**
+   **Los opel son fiables**
    
-   letra ~~tachada~~
-
+   ~~los nissan son baratos~~ 
    <!-- generar una línea de codigo -->
 
    ´
    console.log("hola mundo")
-   ´
+   `
 
    ```xml
    <?xml version="1.0" encoding="UTF-8"?>
@@ -68,5 +67,16 @@
    ```
   <!-- Accesos a páginas web -->
 
-  [periodico el país](https://www.elpais.es 
-  "periodico chachi")
+  [página de koenigsegg ](https://www.koenigsegg.com/home 
+  "tienda de coches exclusivos")
+  
+  <!-- Insertar imágenes -->
+
+  ![Nissan Skyline GT-R](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZW40f-lhe_vBLckGgfDvDJwKMV1gvSlEOvQRsNHTRIw&s "Nissan Skyline GT-R R34 Nismo")
+
+  * [1º] Nissan Skyline GT-R R32
+  * [2º] Nissan Skyline GT-R R33
+  * [3º] Nissan Skyline GT-R R34
+  * [4º] Nissan Skyline GT-R R35
+
+  > El Nissan Skyline GT-R R34 es el campeon en de una competición en Japón de 1990 y en 1992
